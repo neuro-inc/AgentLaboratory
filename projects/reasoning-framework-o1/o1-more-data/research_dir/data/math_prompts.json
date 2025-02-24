@@ -1,0 +1,16 @@
+[
+  {
+    "prompt": "2 + 3 = ?",
+    "solution_steps": [
+      "2+3=5"
+    ],
+    "answer": 5
+  },
+  {
+    "prompt": "6 * 7 = ?",
+    "solution_steps": [
+      "6*7=42"
+    ],
+    "answer": 42
+  }
+]

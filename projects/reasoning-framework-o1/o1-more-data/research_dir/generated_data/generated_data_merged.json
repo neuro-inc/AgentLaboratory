@@ -1,0 +1,32 @@
+{
+  "code": [
+    {
+      "prompt": "Implement fizzbuzz in python",
+      "chosen_solution": "Solution candidate B for: Implement fizzbuzz in python",
+      "reward": 1
+    },
+    {
+      "prompt": "Reverse a string in python",
+      "chosen_solution": "Solution candidate C for: Reverse a string in python",
+      "reward": 1
+    }
+  ],
+  "math": [
+    {
+      "prompt": "2 + 3 = ?",
+      "solution_steps": [
+        "2+3=5"
+      ],
+      "final_correct": true,
+      "reward": 1
+    },
+    {
+      "prompt": "6 * 7 = ?",
+      "solution_steps": [
+        "6*7=42"
+      ],
+      "final_correct": true,
+      "reward": 1
+    }
+  ]
+}

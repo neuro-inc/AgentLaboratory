@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "Implement fizzbuzz in python",
+    "solution": "print('fizzbuzz example')",
+    "tests": [
+      "Check for multiples of 3 => fizz",
+      "Check for multiples of 5 => buzz"
+    ]
+  },
+  {
+    "prompt": "Reverse a string in python",
+    "solution": "print(''.join(reversed('hello')))",
+    "tests": [
+      "Input: 'hello', Output: 'olleh'"
+    ]
+  }
+]
